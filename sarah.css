@@ -1,0 +1,30 @@
+.header{
+  position:fixed;
+  width:100%;
+}
+
+.header img{
+  float:left;
+  border:1px solid black;
+}
+
+.header nav{
+  float:right;
+}
+
+.menu-links{
+  list-style:none;
+}
+
+.menu-links li{
+  display:inline-block;
+  padding:10px;
+}
+
+
+.bg-image img{
+  width:30%;
+  display:block;
+  margin:auto;
+  padding:100px 0 20px;
+}

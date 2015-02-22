@@ -1,0 +1,52 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+h1, h2, h3, p{
+  margin:0;
+}
+
+ul{
+  list-style:none;
+}
+
+a{
+  text-decoration:none;
+  color:black;
+}
+
+
+.logo{
+  float:left;
+  padding: 20px 0 0 20px;
+}
+
+.header{
+  display:inline-block;
+  width:100%;
+}
+
+.header nav{
+  float:right;
+  padding: 20px 20px 0 0;
+}
+
+.header-links li{
+  display:inline-block;
+  margin: 0 10px;
+}
+
+.blurb{
+  padding-top:100px;
+  width:50%;
+  margin:auto;
+}
+
+.blurb h1{
+  text-align:center;
+}
+
+.blurb p{
+  text-indent:15px;
+}
